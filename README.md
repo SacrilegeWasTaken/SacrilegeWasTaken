@@ -35,3 +35,7 @@ You can find my hobby projects here.
 ### 📬 Contact Info (GMT+7)
 * **Telegram:** [@vietnam_veteran](https://t.me/vietnam_veteran)
 * **Email:** [leonid.levchishin@proton.me](mailto:leonid.levchishin@proton.me) (checking once a week)
+
+### Also check
+
+* **CodeBerg:** [sacrilegewastaken](https://codeberg.org/sacrilegewastaken) (my primary git remote)
